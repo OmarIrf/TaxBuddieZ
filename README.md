@@ -83,3 +83,12 @@ Part of a growing suite of smart and fun utility apps.
 This project is open-source under the MIT License — feel free to use and improve it.
 
 💬 “Your friendly TaxBuddieZ for quick, stress-free tax calculations.”
+
+
+
+🚀 Evolved from: Federal Income Tax Calculator (Console Prototype). 
+
+
+
+
+
