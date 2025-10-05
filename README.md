@@ -52,8 +52,6 @@ Built with **Kotlin + Jetpack Compose**, it combines smooth UI animations, smart
 
    git clone https://github.com/<OmarIrf>/TaxBuddieZ.git
 
- // https://github.com/<your-username>/TaxBuddieZ.git
-
    1. Open the project in Android Studio.
 
 3. Sync Gradle and build the project.
